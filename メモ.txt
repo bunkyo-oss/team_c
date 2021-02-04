@@ -1,7 +1,3 @@
 名前　oracle64
 Linux　Oracle64bit
-<<<<<<< HEAD
 Linuxのことよく知らないしデフォルトでこれだったので
-=======
-Linuxのことよく知らないしデフォルトでこれだったので
->>>>>>> fefd9b7c3af595b68b398b455b1c25572333dca6
