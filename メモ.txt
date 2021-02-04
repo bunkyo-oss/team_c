@@ -1,0 +1,10 @@
+1
+名前　oracle64
+Linux　Oracle64bit　デフォルトでそうだったので
+フォルダ　C:\Users\kinug\VirtualBox VMs
+1024MB
+仮想ハードディスクのタイプ　VDI
+
+2
+名前　ubuntu64
+Linux　Ubuntu64bit なんか有名なので
